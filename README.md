@@ -10,4 +10,4 @@ it was just me trying to get the handle of how a working on a big project actual
 the circunstances.
 
 You can find more details of the game on the PDF I delivered alongisde the game, unfortunately it's only available in Portuguese and I don't think there is use for me translating
-it anyway.
+it anyway. I'm also including the class diagram that I submited.
